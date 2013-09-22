@@ -1,5 +1,9 @@
 # Strophe.js Change Log
 
+## Version 1.1 - TBD
+
+* Add WebSocket support.
+
 ## Version 1.0.2 - 2011-06-19
 
 * Fix security bug where DIGEST-MD5 client nonce was not properly
